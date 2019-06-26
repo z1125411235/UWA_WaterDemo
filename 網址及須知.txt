@@ -1,0 +1,7 @@
+版本:Unity 2018.2.17f1
+
+UWA網址__https://github.com/shanecelis/water-demo
+
+本人Github網址__https://github.com/z1125411235/UWA_WaterDemo.git
+
+官方Github網址__https://github.com/shanecelis/water-demo
